@@ -1,0 +1,21 @@
+html, body{
+background: red;
+margin:0;
+padding:0;
+}
+
+header.jumbotron{
+    width:100vw;
+    min-height:80vh;
+    background: #6AF9E6;
+    background-image:url(img/hero.png);
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:12%;
+}
+
+nav.main-nav{
+    width:100vw;
+    height:80px;
+    background:grey;
+}
